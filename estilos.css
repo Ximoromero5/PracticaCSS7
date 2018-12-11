@@ -1,0 +1,49 @@
+@charset "utf-8";
+body{
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+p{
+    font-size: 150%;
+}
+#p1{
+    font-size: 300%;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+#p2{
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+#p3{
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+#p4{
+    color: hsl(35, 100%, 55%);
+    font-family: monospace;
+    font-size: 200%;
+}
+#p5{
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+#p6{
+    color: hsl(35, 100%, 55%);
+    font-family: monospace;
+    font-size: 200%;
+}
+#p7{
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
+#p8{
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+#p9{
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
